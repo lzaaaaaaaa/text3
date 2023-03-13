@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("sasadad");
         System.out.println("asadda");
+        System.out.println("加入到gitee");
     }
 }
